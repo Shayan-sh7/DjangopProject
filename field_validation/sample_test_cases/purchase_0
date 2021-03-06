@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Geoffrey
+    last_name: Lewis
+    phone_number: 773-204-5719
+    email: notaprguy@att.net
+shipping_address:
+    street_number: 55822
+    street_name: Country Lane
+    apartment_number: 
+    city: *(&(123
+    state: MA
+    zip: 75997
+payment_details:
+    cardholder:
+        first_name: Guadalupe
+        last_name: Garrett
+    card_number: 9141-7739-9807-8196
+    expiration_month: 13
+    expiration_year: 2032
+    ccv: 669

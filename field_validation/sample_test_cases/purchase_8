@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Lynn
+    last_name: Harper
+    phone_number: 590-524-7763
+    email: parsimony@comcast.net
+shipping_address:
+    street_number: 45626
+    street_name: 
+    apartment_number: 326
+    city: Chicago
+    state: MN
+    zip: 35340
+payment_details:
+    cardholder:
+        first_name: Elvira
+        last_name: Morton
+    card_number: 9642-3951-1890-2965
+    expiration_month: 09
+    expiration_year: 
+    ccv: 468

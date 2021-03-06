@@ -1,0 +1,20 @@
+contact_details:
+    first_name: !@#!@#
+    last_name: Greene
+    phone_number: 641-102-8823
+    email: zavadsky@hotmail.com
+shipping_address:
+    street_number: 70398
+    street_name: Overlook Circle
+    apartment_number: 
+    city: Boston
+    state: CA
+    zip: 12050
+payment_details:
+    cardholder:
+        first_name: Percy
+        last_name: Craig
+    card_number: 5329-9364-1489-8897
+    expiration_month: 04
+    expiration_year: 2031
+    ccv: 868

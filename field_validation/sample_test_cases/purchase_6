@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Walter
+    last_name: Rios
+    phone_number: 641-102-8823
+    email: houle@mac.com
+shipping_address:
+    street_number: 55822
+    street_name: Summit Avenue
+    apartment_number: 9702
+    city: Boston
+    state: LA
+    zip: 17708
+payment_details:
+    cardholder:
+        first_name: Pedro
+        last_name: Garrett
+    card_number: 1996-6487-3008-6225
+    expiration_month: 10
+    expiration_year: qawer
+    ccv: 732

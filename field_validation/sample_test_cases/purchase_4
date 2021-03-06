@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Darrin
+    last_name: Warner
+    phone_number: 223-553-6218
+    email: 
+shipping_address:
+    street_number: 35722
+    street_name: Forest Drive
+    apartment_number: 
+    city: New York
+    state: UT
+    zip: 76196
+payment_details:
+    cardholder:
+        first_name: Jacqueline
+        last_name: Fox
+    card_number: 8324-3405-7758-7116
+    expiration_month: 04
+    expiration_year: qawer
+    ccv: 177

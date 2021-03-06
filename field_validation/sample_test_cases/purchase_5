@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Clara
+    last_name: Fox
+    phone_number: 590-524-7763
+    email: stomv@yahoo.com
+shipping_address:
+    street_number: 
+    street_name: Eagle Street
+    apartment_number: 3393
+    city: Chicago
+    state: RI
+    zip: 42074
+payment_details:
+    cardholder:
+        first_name: Lawrence
+        last_name: Burgess
+    card_number: 8324-3405-7758-7116
+    expiration_month: 02
+    expiration_year: 2028
+    ccv: 966
